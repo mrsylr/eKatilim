@@ -1,0 +1,54 @@
+{
+  "generator-jhipster": {
+    "blueprints": [
+      {
+        "name": "generator-jhipster-nodejs",
+        "version": "2.0.0-beta.1"
+      }
+    ],
+    "otherModules": [
+      {
+        "name": "generator-jhipster-nodejs",
+        "version": "2.0.0-beta.1"
+      }
+    ],
+    "applicationType": "monolith",
+    "baseName": "eKatilim",
+    "jhipsterVersion": "7.0.0",
+    "skipClient": false,
+    "skipServer": false,
+    "skipUserManagement": false,
+    "skipCheckLengthOfIdentifier": false,
+    "skipFakeData": false,
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "testFrameworks": [],
+    "pages": [],
+    "creationTimestamp": 1627629398009,
+    "serverPort": "8081",
+    "packageName": "com.jhipster.node",
+    "databaseType": "sql",
+    "devDatabaseType": "sqlite",
+    "prodDatabaseType": "postgresql",
+    "authenticationType": "jwt",
+    "clientFramework": "react",
+    "withAdminUi": true,
+    "clientTheme": "cerulean",
+    "clientThemeVariant": "primary",
+    "enableTranslation": true,
+    "nativeLanguage": "tr",
+    "packageFolder": "com/jhipster/node",
+    "jwtSecretKey": "MGJlNzdjNDY3MDdiMThiNTBkYzhmMjg1M2E0ZWFmNTBjNWI4NjgwMGViNjhhZTQ5ZGYxNjdiM2QzZDQ4NGIwMDBmYmJkMTVmYTZjYjIxMGVjYmU5ODRjNzllYTQ1MDFmOGRlMzU5YjYxZmFkY2RlZGVmZWVjNTI5MWEzZjk3YTU=",
+    "serviceDiscoveryType": false,
+    "websocket": false,
+    "searchEngine": false,
+    "messageBroker": false,
+    "clientPackageManager": "npm",
+    "languages": ["tr", "en"],
+    "cacheProvider": "ehcache",
+    "buildTool": "maven",
+    "enableHibernateCache": true,
+    "reactive": false
+  }
+}
